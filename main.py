@@ -18,7 +18,7 @@ class My_with__str__Class:
         return "Hi from MyClass!"
     
     def __repr__(self):
-        return "MyClass()"
+        return "My_with__str__Class()"
 
 c2 = My_with__str__Class()
 
